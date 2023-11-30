@@ -1,1 +1,2 @@
-# bws_repository_2023
+# About this repository
+I am a full stack web developer.
